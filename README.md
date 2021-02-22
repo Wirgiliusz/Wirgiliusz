@@ -17,7 +17,7 @@
 ![Qt](https://img.shields.io/badge/-Qt-111?&logo=qt)
 ![Unity](https://img.shields.io/badge/-Unity-111?&logo=Unity)
 
-## My interests
+## My area of interests
 - Low and high level programming
 - Embedded systems
 - Electronics
