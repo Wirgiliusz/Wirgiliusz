@@ -2,6 +2,7 @@
 **Wirgiliusz/Wirgiliusz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 # Hello
+
 ## Things I work with
 
 ### Languages
@@ -35,3 +36,9 @@
 [![Micromouse Robot Wizualizer](https://img.shields.io/badge/-Micromouse_Robot_Wizualizer-111?style=for-the-badge)](https://github.com/Wirgiliusz/Micromouse-Robot-Wizualizer)
 [![Fly and Shoot](https://img.shields.io/badge/-Fly_and_Shoot-111?style=for-the-badge)](https://github.com/Wirgiliusz/FlyAndShoot)
 [![Celeste version changer](https://img.shields.io/badge/-Celeste_version_changer-111?style=for-the-badge)](https://github.com/Wirgiliusz/Celeste_version_changer)
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Wirgiliusz&show_icons=true&count_private=true&theme=vision-friendly-dark" />
+  </a>
+</p>
