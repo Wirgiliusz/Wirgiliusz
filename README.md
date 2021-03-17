@@ -36,7 +36,7 @@
 [![Micromouse Robot Wizualizer](https://img.shields.io/badge/-Micromouse_Robot_Wizualizer-111?style=for-the-badge)](https://github.com/Wirgiliusz/Micromouse-Robot-Wizualizer)
 [![Fly and Shoot](https://img.shields.io/badge/-Fly_and_Shoot-111?style=for-the-badge)](https://github.com/Wirgiliusz/FlyAndShoot)
 [![Tic Tac Toe plus with GUI](https://img.shields.io/badge/-Tic--Tac--Toe+_with_GUI-111?style=for-the-badge)](https://github.com/Wirgiliusz/Kolko_i_Krzyzyk_SFML)
-[![Celeste version changer](https://img.shields.io/badge/-Celeste_ver_changer-111?style=for-the-badge)](https://github.com/Wirgiliusz/Celeste_version_changer)
+[![Celeste version changer](https://img.shields.io/badge/-Celeste_version_changer-111?style=for-the-badge)](https://github.com/Wirgiliusz/Celeste_version_changer)
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
