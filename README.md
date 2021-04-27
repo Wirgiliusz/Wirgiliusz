@@ -1,12 +1,10 @@
 <!--
 **Wirgiliusz/Wirgiliusz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-# Hello
-I am a student with an Engineering degree in **Control Engineering and Robotics** pursuing Master's degree in **Embedded Robotics**.
-
-Not scared of low-level programming, playing with registers, meeting nano-seconds deadlines, and touching the hardware.
-
-Fascinated with high-level programming, complex million-lines libraries, and many layers of abstraction which make very complicated things doable.
+# Hello ℴ*␣*ℴ 
+I am a student with an Engineering degree in **Control Engineering and Robotics** pursuing Master's degree in **Embedded Robotics**.  
+▷ Not scared of low-level programming, playing with registers, meeting nano-seconds deadlines, and touching the hardware.  
+▷ Fascinated with high-level programming, complex million-lines libraries, and many layers of abstraction which make very complicated things doable.  
 
 ## Things I work with
 
