@@ -5,6 +5,8 @@
 
 ## Things I work with
 
+<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=Wirgiliusz&show_icons=true&count_private=true&theme=vision-friendly-dark">
+
 ### Languages
 ![C](https://img.shields.io/badge/-C-111?&logo=C)
 ![C++](https://img.shields.io/badge/-C++-111?&logo=c%2b%2b)
@@ -37,9 +39,3 @@
 [![Fly and Shoot](https://img.shields.io/badge/-Fly_and_Shoot-111?style=for-the-badge)](https://github.com/Wirgiliusz/FlyAndShoot)
 [![Tic Tac Toe plus with GUI](https://img.shields.io/badge/-Tic--Tac--Toe+_with_GUI-111?style=for-the-badge)](https://github.com/Wirgiliusz/Kolko_i_Krzyzyk_SFML)
 [![Celeste version changer](https://img.shields.io/badge/-Celeste_version_changer-111?style=for-the-badge)](https://github.com/Wirgiliusz/Celeste_version_changer)
-
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Wirgiliusz&show_icons=true&count_private=true&theme=vision-friendly-dark" />
-  </a>
-</p>
