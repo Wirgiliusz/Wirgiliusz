@@ -16,8 +16,6 @@ I am a student with an Engineering degree in **Control Engineering and Robotics*
 ![C#](https://img.shields.io/badge/-C＃-111?&logo=c-sharp)
 ![Python](https://img.shields.io/badge/-Python-111?&logo=python)
 
-![SFML](https://img.shields.io/badge/-SFML-111?&logo=sfml)
-
 ### Technologies
 ![Linux](https://img.shields.io/badge/-Linux-111?&logo=Linux)
 ![Git](https://img.shields.io/badge/-Git-111?&logo=git)
